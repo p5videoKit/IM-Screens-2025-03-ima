@@ -40,7 +40,7 @@
 ### p5.js v2.0
 
 - [p5.js v2.0 beta](https://github.com/processing/p5.js/releases)
-- [https://github.com/processing/p5.js/issues/7609]([p5.js 2.0 RFC Proposal]: update Shape api for readability using object literals #7609)
+- [my p5.js 2.0 RFC Proposal: update Shape api for readability using object literals](https://github.com/processing/p5.js/issues/7609)
 
 #### Google Summer of Code
 
