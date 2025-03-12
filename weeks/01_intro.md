@@ -17,17 +17,14 @@
 
 - who are you? -- your story -- Survey
 
-  - primary computer
-    - [] macOS
-    - [] Windows
-    - [] Other
+  - primary computer [] macOS [] Windows [] Other
   - [] use git, github.com
   - [] use visual studio code
   - [] use command line / bash scripts / nodejs
 
 - who am I?
 
-## structure of open source non-profit organization
+## Structure of Open Source Non-Profit Organization
 
 ### p5js and editor.p5js -- processing foundation
 
@@ -50,6 +47,8 @@
 ## Class Resources
 
 ### p5VideoKit
+
+- open source project - collaborators invited
 
 - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
   - a dashboard for mixing video in the browser.
