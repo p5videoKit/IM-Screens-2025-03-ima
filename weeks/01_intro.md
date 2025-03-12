@@ -1,5 +1,7 @@
 # Week 01 Introduction
 
+## [[Next](./02_code.md)]
+
 ## Overview
 
 - what is this class about?
@@ -78,12 +80,16 @@ structure of open source non-profit organization
 
 ## Class Exercise
 
-- use p5mirror
+- download and run p5js script in VS Code
+
+- pre-flight homework link
+
+<!-- - use p5mirror
 - [p5mirror](https://github.com/molab-itp/p5mirror)
 
   - mirror your editor.p5js sketches into a git repo
 
-- pre-flight homework link
+- pre-flight homework link -->
 
 ## Homework Week01
 

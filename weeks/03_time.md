@@ -1,5 +1,7 @@
 # Week 03 Time
 
+## [[Previous](./02_code.md)] [[Next](./04_video.md)]
+
 ## Using Time
 
 ```
@@ -52,6 +54,10 @@ Must locally or in web browser to use url parameters
 ```
 
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
+
+## Class Exercise
+
+- github pages setup
 
 ## Homework Week03
 

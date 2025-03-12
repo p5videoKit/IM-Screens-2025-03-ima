@@ -1,5 +1,7 @@
 # Week 02 Code
 
+## [[Previous](./01_intro.md)] [[Next](./03_time.md)]
+
 ## Editing wiki locally
 
 ```
@@ -30,6 +32,15 @@ git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
 <!-- ## skin-tone demo
 
 - [skin-tone demo](https://jht1493.net/p5VideoKit/demo/index.html?u=12&d=settings/2022-skin-tone/skin-tone-main-qr.json) -->
+
+## Class Exercise
+
+- use p5mirror
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+
+  - mirror your editor.p5js sketches into a git repo
+
+- wiki page review / update
 
 ## Homework Week02
 

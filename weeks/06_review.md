@@ -1,5 +1,7 @@
 # Week 06 Review
 
+## [[Previous](./05_proposalvideo.md)] [[Next](./07_present.md)]
+
 ## Homework Week06
 
 - keep working on your final project
