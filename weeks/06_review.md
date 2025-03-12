@@ -1,6 +1,6 @@
 # Week 06 Review
 
-## [[Previous](./05_proposalvideo.md)] [[Next](./07_present.md)]
+## [[Previous](./05_proposal.md)] [[Next](./07_present.md)]
 
 ## Homework Week06
 
