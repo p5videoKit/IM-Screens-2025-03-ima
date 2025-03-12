@@ -27,6 +27,26 @@
 
 - who am I?
 
+## structure of open source non-profit organization
+
+### p5js and editor.p5js -- processing foundation
+
+- [p5js](https://p5js.org/) [repo](https://github.com/processing/p5.js)
+- [p5.js/releases](https://github.com/processing/p5.js/releases)
+
+- [editor.p5js](https://editor.p5js.org/) [repo](https://github.com/processing/p5.js-web-editor)
+- [p5.js-web-editor/releases](https://github.com/processing/p5.js-web-editor/releases)
+
+### p5.js v2.0
+
+- [p5.js v2.0 beta](https://github.com/processing/p5.js/releases)
+- [https://github.com/processing/p5.js/issues/7609]([p5.js 2.0 RFC Proposal]: update Shape api for readability using object literals #7609)
+
+#### Google Summer of Code
+
+- [p5.js - Google Summer of Code 2023](https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/README.md)
+- [Google Summer now](https://buildyourfuture.withgoogle.com/programs/summer-of-code)
+
 ## Class Resources
 
 ### p5VideoKit
@@ -53,25 +73,6 @@
   - a p5js Library for cloud storage enhanced multi-device experiences
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
   - p5js examples for p5moLibrary
-
-### p5js and editor.p5js -- processing foundation
-
-structure of open source non-profit organization
-
-- [p5js](https://p5js.org/) [repo](https://github.com/processing/p5.js)
-- [editor.p5js](https://editor.p5js.org/) [repo](https://github.com/processing/p5.js-web-editor)
-- [p5.js/releases](https://github.com/processing/p5.js/releases)
-- [p5.js-web-editor/releases](https://github.com/processing/p5.js-web-editor/releases)
-
-### p5.js v2.0
-
-- [p5.js v2.0 beta](https://github.com/processing/p5.js/releases)
-- [https://github.com/processing/p5.js/issues/7609]([p5.js 2.0 RFC Proposal]: update Shape api for readability using object literals #7609)
-
-#### Google Summer of Code
-
-- [p5.js - Google Summer of Code 2023](https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/README.md)
-- [Google Summer now](https://buildyourfuture.withgoogle.com/programs/summer-of-code)
 
 ### Other libraries
 
