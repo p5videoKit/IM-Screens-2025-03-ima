@@ -9,13 +9,15 @@ in our hands, on our desktops, on walls and public installations.
 
 This course will explore the creative possibilities of real-time
 interactive and reactive art on screens in various forms.
-Using the recently developed p5videoKit we will create standalone installations.
-[p5videoKit](https://github.com/molab-itp/p5videoKit) is a new library of live video effects - building on p5js -
+Using p5videoKit we will create standalone installations.
+[p5videoKit](https://github.com/molab-itp/p5videoKit) is a library of live video effects - building on p5js -
 presented as a dashboard for mixing video in the browser.
 This library allows the user to apply visual effects to live video
 from connected cameras and sensors or streaming from devices on the internet.
 p5VideoKit is open source and can be extended with the user’s p5js code for
-a plethora of visual effects and interactivity. One possible application of p5Videokit
+a plethora of visual effects and interactivity.
+
+One possible application of p5Videokit
 would be a public facing installation allowing anonymous people on the street
 to use their hand held devices to interact with large street facing screens,
 thereby collaborating on real time creation of “digital graffiti”.
@@ -32,9 +34,7 @@ on the floor and street facing areas of the 370 Jay Street campus.
 Begining in 2024 we will also use:
 
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
-
   - a p5js Library for cloud storage enhanced multi-device experiences
-
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
   - p5js examples for p5moLibrary
 - [p5mirror](https://github.com/molab-itp/p5mirror)
