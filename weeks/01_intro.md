@@ -15,14 +15,14 @@
   - Private
   - Preservation
 
-- who are you? -- your story -- Survey
+- who am I?
+
+- who are you? -- Survey
 
   - primary computer [] macOS [] Windows [] Other
   - [] use git, github.com
   - [] use visual studio code
   - [] use command line / bash scripts / nodejs
-
-- who am I?
 
 ## Structure of Open Source Non-Profit Organization
 

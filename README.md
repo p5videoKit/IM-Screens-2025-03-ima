@@ -17,11 +17,6 @@ from connected cameras and sensors or streaming from devices on the internet.
 p5VideoKit is open source and can be extended with the user’s p5js code for
 a plethora of visual effects and interactivity.
 
-One possible application of p5Videokit
-would be a public facing installation allowing anonymous people on the street
-to use their hand held devices to interact with large street facing screens,
-thereby collaborating on real time creation of “digital graffiti”.
-
 Building on ICM, students will learn how to adapt simple sketches
 into components of p5VideoKit so that algorithms can be
 quickly composited and orchestrated into more complex works.
@@ -31,14 +26,24 @@ and remotely configure dedicated computers with long running installations.
 Several dedicated computers and screens will be available to preview installations
 on the floor and street facing areas of the 370 Jay Street campus.
 
-Begining in 2024 we will also use:
+One possible application of p5Videokit
+would be a public facing installation allowing anonymous people on the street
+to use their hand held devices to interact with large street facing screens,
+thereby collaborating on real time creation of “digital graffiti”.
 
+# Other resources
+
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+  - mirror your editor.p5js sketches into a git rep
+- [moLib](https://github.com/molab-itp/moLib)
+  - interactive multi-screen experiences on handheld and large screens
+  - with or without p5js!
+- [moSalon](https://github.com/molab-itp/moSalon)
+  - examples for moLib
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
   - a p5js Library for cloud storage enhanced multi-device experiences
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
   - p5js examples for p5moLibrary
-- [p5mirror](https://github.com/molab-itp/p5mirror)
-  - mirror your editor.p5js sketches into a git repo
 
 ## Prerequisites
 
