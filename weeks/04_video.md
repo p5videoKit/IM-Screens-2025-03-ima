@@ -17,7 +17,7 @@
 
 [p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
 
-## mo-videoplayer
+## videoplayer
 
 - [03-jht-hatviz](https://editor.p5js.org/jht9629-nyu/sketches/7hzeHDSIl)
 - [Aperiodic monotile animation](https://www.youtube.com/watch?v=W-ECvtIA-5A)
