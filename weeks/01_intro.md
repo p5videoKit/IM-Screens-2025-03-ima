@@ -125,7 +125,7 @@
 - please name your sketch "ims01-nickname" to help me keep track
 - add comments to the sketch describing how you think the algorithm works
 
-- add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-01-homework)
+- add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-01-homework)
 
 - start thinking about your final project
 - collaboration with other class members is ok,

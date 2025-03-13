@@ -52,6 +52,6 @@ git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
 
 - update your wiki page with notes on your experience
 
-- add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-02-homework)
+- add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-02-homework)
 
 - enter any questions or notes on your wiki page

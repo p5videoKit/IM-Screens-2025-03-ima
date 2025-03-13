@@ -80,7 +80,7 @@ https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=W-ECvt
   - give feedback via p5VideoKit issues
   - pull request to add your plugin
 
-- add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-04-homework)
+- add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-04-homework)
 
 - give a brief summary of on your wiki page for the past 4 weeks
 - enter any questions or notes on your wiki page

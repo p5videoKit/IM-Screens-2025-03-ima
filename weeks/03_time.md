@@ -65,7 +65,7 @@ Must locally or in web browser to use url parameters
 
   - make the p5js sketch available via your github repo as github pages
 
-- add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-03-homework)
+- add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-03-homework)
 
 - enter any questions or notes on your wiki page
 

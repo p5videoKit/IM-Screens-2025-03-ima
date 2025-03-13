@@ -75,7 +75,7 @@ bin/run-gallery-yoyo.sh
   - class feedback
   - progress | problems| plans | questions
 
-- add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2024-03-ima/wiki#week-05-homework)
+- add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-05-homework)
 
 <!--
 ## nodejs setup
