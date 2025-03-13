@@ -21,7 +21,7 @@
 
 - [03-jht-hatviz](https://editor.p5js.org/jht9629-nyu/sketches/7hzeHDSIl)
 - [Aperiodic monotile animation](https://www.youtube.com/watch?v=W-ECvtIA-5A)
-- [videoplayer](https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=W-ECvtIA-5A&title=Aperiodic%20monotile%20animation)
+- [videoplayer](https://molab-itp.github.io/moSalon/src/videoplayer/?playlist=W-ECvtIA-5A&title=Aperiodic%20monotile%20animation)
 
 ```
 // https://editor.p5js.org/jht9629-nyu/sketches/7hzeHDSIl
@@ -30,7 +30,7 @@
 https://www.youtube.com/watch?v=W-ECvtIA-5A
 Aperiodic monotile animation
 
-https://molab-itp.github.io/p5moLibrary/src/demo/mo-videoplayer/?playlist=W-ECvtIA-5A&title=Aperiodic%20monotile%20animation
+https://molab-itp.github.io/moSalon/src/videoplayer/?playlist=W-ECvtIA-5A&title=Aperiodic%20monotile%20animation
 ```
 
 ## p5mo alliance
