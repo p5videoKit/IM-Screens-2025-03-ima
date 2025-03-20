@@ -42,6 +42,10 @@
 - create a repo for the class, make jht9629-nyu a collaborator
   -- name repo ims-2025-yourNickName
 
+### review my repo
+
+- [ims-2025-jht](https://github.com/jht9629-nyu/ims-2025-jht)
+
 ### nodejs install
 
 - [nodejs](https://nodejs.org/en/download)
