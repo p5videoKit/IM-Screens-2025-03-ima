@@ -73,10 +73,11 @@
 - update your wiki page with notes on your experience
 
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-02-homework)
+- you can work locally in a from a github repo (recommend), but still make a copy of sketch in p5js editor for link above
 
 - enter any questions or notes on your wiki page
 - you can use your prefered blogging tool for extensive notes
-- in this case, but a link to blog entry in your wiki page
+- in this case, put a link to blog entry in your wiki page
 
 ## Editing wiki locally
 
