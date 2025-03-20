@@ -33,16 +33,19 @@
 
 ## Class Exercise
 
-### create your wiki page for notes
+### create your wiki page
 
+- use your wiki page for weekly short notes
+  -- a link to you fav blogging tool for more detail
 - [class wiki](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki)
 
 ### create repo for the class
 
-- create a repo for the class, make jht9629-nyu a collaborator
+- create a repo for the class
   -- name repo ims-2025-yourNickName
+- make jht9629-nyu a collaborator
 
-### review my repo
+### review my class repo
 
 - [ims-2025-jht](https://github.com/jht9629-nyu/ims-2025-jht)
 
@@ -54,6 +57,8 @@
 - use p5mirror
 - [p5mirror](https://github.com/molab-itp/p5mirror)
   -- download your editor.p5js sketches into your git repo
+
+### wiki page review
 
 - wiki page review / update
 
