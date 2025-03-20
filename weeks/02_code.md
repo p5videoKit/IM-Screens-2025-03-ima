@@ -12,22 +12,28 @@ git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
 
 ## Share those Screens!
 
+- [IMS-JHT-Screens](https://docs.google.com/document/d/1XbKeQlDSPVh0-DACXFnACqyr3AC_mjU5gd40PQ97um8)
+
 - [Apple docs for connecting to installation computers via Screen Sharing](https://support.apple.com/guide/mac-help/share-the-screen-of-another-mac-mh14066/mac)
 
-## Class Resources
+<!-- ## Class Resources
 
-- [p5VideoKit](https://github.com/molab-itp/p5videoKit)
+- [nodejs](https://nodejs.org/en/download)
+  -- install, needed by p5mirror bash scripts
+
+- [p5mirror](https://github.com/molab-itp/p5mirror)
+  - mirror your editor.p5js sketches into a git repo -->
+
+<!-- - [p5VideoKit](https://github.com/molab-itp/p5videoKit)
   - a dashboard for mixing video in the browser.
 - [p5moLibrary](https://github.com/molab-itp/p5moLibrary)
   - a p5js Library for cloud storage enhanced multi-device experiences
 - [p5moExamples](https://github.com/molab-itp/p5moExamples)
-  - p5js examples for p5moLibrary
-- [p5mirror](https://github.com/molab-itp/p5mirror)
-  - mirror your editor.p5js sketches into a git repo
+  - p5js examples for p5moLibrary -->
 
-## p5moExamples demos
+<!-- ## p5moExamples demos -->
 
-## "POWER TO THE PEOPLE!" demo
+<!-- ## "POWER TO THE PEOPLE!" demo -->
 
 <!-- ## skin-tone demo
 
@@ -35,10 +41,21 @@ git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
 
 ## Class Exercise
 
+### create your wiki page for notes
+
+### create repo for the class
+
+- create a repo for the class, make jht9629-nyu a collaborator
+  -- name repo ims-2025-yourNickName
+
+### nodejs install
+
+- [nodejs](https://nodejs.org/en/download)
+  -- install, needed by p5mirror bash scripts
+
 - use p5mirror
 - [p5mirror](https://github.com/molab-itp/p5mirror)
-
-  - mirror your editor.p5js sketches into a git repo
+  -- download your editor.p5js sketches into your git repo
 
 - wiki page review / update
 
@@ -55,3 +72,5 @@ git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-02-homework)
 
 - enter any questions or notes on your wiki page
+- you can use your prefered blogging tool for extensive notes
+- in this case, but a link to blog entry in your wiki page
