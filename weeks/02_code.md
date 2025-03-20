@@ -2,14 +2,6 @@
 
 ## [[Previous](./01_intro.md)] [[Next](./03_time.md)]
 
-## Editing wiki locally
-
-```
-# Use Terminal to clone wiki
-# https://github.com/jht9629-nyu/IM-Screens-2023/wiki
-git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
-```
-
 ## Share those Screens!
 
 - [IMS-JHT-Screens](https://docs.google.com/document/d/1XbKeQlDSPVh0-DACXFnACqyr3AC_mjU5gd40PQ97um8)
@@ -74,3 +66,11 @@ git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
 - enter any questions or notes on your wiki page
 - you can use your prefered blogging tool for extensive notes
 - in this case, but a link to blog entry in your wiki page
+
+## Editing wiki locally
+
+```
+# Use Terminal to clone wiki
+# https://github.com/jht9629-nyu/IM-Screens-2023/wiki
+git clone https://github.com/jht9629-nyu/IM-Screens-2023.wiki.git
+```
