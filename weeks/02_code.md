@@ -86,3 +86,7 @@
 # https://github.com/jht9629-nyu/IM-Screens-2023/wiki
 git clone https://github.com/p5videoKit/IM-Screens-2025-03-ima.wiki.git
 ```
+
+## github pages
+
+- hosting you sketches on the web
