@@ -90,3 +90,7 @@ git clone https://github.com/p5videoKit/IM-Screens-2025-03-ima.wiki.git
 ## github pages
 
 - hosting you sketches on the web
+
+## google summer of code
+
+[google summer of code](https://summerofcode.withgoogle.com/)
