@@ -35,6 +35,8 @@
 
 ### create your wiki page for notes
 
+- [class wiki](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki)
+
 ### create repo for the class
 
 - create a repo for the class, make jht9629-nyu a collaborator
