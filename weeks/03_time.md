@@ -84,11 +84,14 @@ Must run locally or in web browser to use url parameters
 - github pages setup
 - add and test sketch get_url_params
 - add and test sketch localStorage
+
+### update your p5mirror repo
+
 - run and commit your p5mirror repo
 
 ## Homework Week03
 
-- Expand your full screen p5js screen or write/find a new one to use configuration data
+- Expand your full screen p5js screen or write/find a new one to use url parameters to control the appearance of your sketch
 
   - make the p5js sketch available via your github repo as github pages
 
