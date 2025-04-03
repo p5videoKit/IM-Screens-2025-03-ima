@@ -65,6 +65,15 @@ Must run locally or in web browser to use url parameters
 
 ## Class Exercise
 
+### create repo for the class
+
+- create a repo for the class
+  -- name repo ims-2025-yourNickName
+- make jht9629-nyu a collaborator
+- add link to your repo to your wiki page
+
+### update your class repo
+
 - put homework sketch in your github repo for this class
 - github pages setup
 - add and test sketch get_url_params
