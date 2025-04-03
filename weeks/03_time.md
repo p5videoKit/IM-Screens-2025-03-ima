@@ -37,7 +37,7 @@
 
 ## saving data locally
 
-Must locally or in web browser to use url parameters
+Must run locally or in web browser to use url parameters
 
 - url param strings
 - localStorage
@@ -65,7 +65,11 @@ Must locally or in web browser to use url parameters
 
 ## Class Exercise
 
+- put homework sketch in your github repo for this class
 - github pages setup
+- add and test sketch get_url_params
+- add and test sketch localStorage
+- run and commit your p5mirror repo
 
 ## Homework Week03
 
