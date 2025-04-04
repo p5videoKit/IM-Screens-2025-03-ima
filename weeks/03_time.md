@@ -34,7 +34,6 @@
   let deltaSecs = deltaTime / 1000
   my.xstep = width * deltaSecs / my.scrollSeconds;
 
-
 // https://editor.p5js.org/jht9629-nyu/sketches/wT957KlMz
 // MazeSpin liberation screens v2
   let now = millis() / 1000;
@@ -91,11 +90,17 @@ Must run locally or in web browser to use url parameters
 
 ## Homework Week03
 
-- Expand your full screen p5js screen or write/find a new one to use url parameters to control the appearance of your sketch
+- Expand your full screen p5js screen or create a new one to that:
 
-  - make the p5js sketch available via your github repo as github pages
+  - uses url parameters to control the appearance of your sketch
+  - or makes us of some data to drive the visual
+  - in addition to another source of input such as camera/mic/ml5js
+  - consider accommodation of landscape and portrait screen orientation
 
 - add a link to your sketch on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-03-homework)
+
+  - also make the p5js sketch available via your github repo as github pages
+  - be sure to include all atributions (eg. links to source sketch, ai chat prompts, etc.)
 
 - enter any questions or notes on your wiki page
 
