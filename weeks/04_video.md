@@ -97,7 +97,7 @@ interactive multi-screen experiences on handheld and large screens
 
 - optional -
 
-  - build on the p5moExamples to create small screen + big screen experience
+  - build on the moSalon to create small screen + big screen experience
 
 - optional -
 
