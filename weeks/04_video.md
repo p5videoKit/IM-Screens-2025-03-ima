@@ -118,3 +118,5 @@ interactive multi-screen experiences on handheld and large screens
 
 - give a brief summary of on your wiki page for the past 4 weeks
 - enter any questions or notes on your wiki page
+- or use your fav blogging tool for your questions and notes
+- and link to it from your wiki page
