@@ -2,11 +2,27 @@
 
 ## [[Previous](./03_time.md)] [[Next](./05_proposal.md)]
 
-- mo-videoplayer
+## Homework review
+
+- questions
+
+- workflow
+
+## What's new
 
 - videoKit
 
 - cloud data with firebase
+
+- mo-videoplayer
+
+## Sketches and repos
+
+- [p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
+
+- [repo - ims-2025-jht-nyu](https://github.com/jht9629-nyu/ims-2025-jht-nyu)
+
+- [sketch - ims_week1 v0 Xueyu333 floMirror fix](https://editor.p5js.org/jht9629-nyu/sketches/1MbhCPM60)
 
 <!-- - Pixel manipulation: raw buffers pixels and GLSL shaders -->
 
@@ -14,14 +30,6 @@
 
 [https://nodejs.org/en/download](https://nodejs.org/en/download)
  -->
-
-## What's new
-
-- [p5mirror-jht9629-nyu](https://jht9629-nyu.github.io/p5mirror-jht9629-nyu/downloads/gen/sketches_recent.html)
-
-- [repo - ims-2025-jht-nyu](https://github.com/jht9629-nyu/ims-2025-jht-nyu)
-
-- [sketch - ims_week1 v0 Xueyu333 floMirror fix](https://editor.p5js.org/jht9629-nyu/sketches/1MbhCPM60)
 
 <!-- ```
 // https://editor.p5js.org/jht9629-nyu/sketches/7hzeHDSIl
