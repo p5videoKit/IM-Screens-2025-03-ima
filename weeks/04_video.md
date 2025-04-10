@@ -53,7 +53,7 @@ https://molab-itp.github.io/moSalon/src/videoplayer/?playlist=W-ECvtIA-5A&title=
 
 - [repo - videoKit-plugin-example ](https://github.com/p5videoKit/videoKit-plugin-example)
 
-- [sketch - p5moRelease videoKit 370 v1](https://editor.p5js.org/jht9629-gmail/sketches/xSrdePcOW)
+- [sketch - p5moRelease videoKit 370 v1](https://editor.p5js.org/jht9629-nyu/sketches/xSrdePcOW)
 
 <!-- - fork repo to customize
 - examples plugins:
