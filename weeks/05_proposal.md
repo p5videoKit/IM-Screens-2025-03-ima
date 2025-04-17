@@ -46,6 +46,14 @@
 // console.log must be used sparingly, affects performance
 ```
 
+## moSalon
+
+interactive multi-screen experiences on handheld and large screens
+
+- [moSalon github](https://github.com/molab-itp/moSalon)
+  - try photobooth
+  - try vote
+
 ## Homework Week05
 
 - work on your final project
