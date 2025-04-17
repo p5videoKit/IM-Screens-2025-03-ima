@@ -53,7 +53,6 @@ interactive multi-screen experiences on handheld and large screens
 - [moSalon github](https://github.com/molab-itp/moSalon)
   - open firebase console
   - try photobooth
-  - try vote
 
 ## Homework Week05
 
