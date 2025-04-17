@@ -59,6 +59,7 @@ interactive multi-screen experiences on handheld and large screens
   - try photobooth
 
 - [let-america-be](https://github.com/jht9629-nyu/let-america-be.git)
+  - enter try small vs. big screen responsive design
 
 ## Homework Week05
 
