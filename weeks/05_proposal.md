@@ -54,8 +54,9 @@ interactive multi-screen experiences on handheld and large screens
 - [photo-booth](https://molab-itp.github.io/moSalon/src/photo-booth/?v=50)
 
 - [moSalon github](https://github.com/molab-itp/moSalon)
-  -- open firebase console
-  -- try photobooth
+
+  - open firebase console
+  - try photobooth
 
 - [let-america-be](https://github.com/jht9629-nyu/let-america-be.git)
 
