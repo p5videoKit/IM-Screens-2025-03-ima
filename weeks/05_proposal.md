@@ -71,6 +71,11 @@ interactive multi-screen experiences on handheld and large screens
 
 - add a link to your sketch or git repo on the [wiki home page](https://github.com/p5videoKit/IM-Screens-2025-03-ima/wiki#week-05-homework)
 
+## Resources
+
+- [vite-p5-devo](https://github.com/p5videoKit/vite-p5-devo)
+  - using bundler to deliver app via vercel
+
 <!-- ## maze bits evolution
 
 ```
