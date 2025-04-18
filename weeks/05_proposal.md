@@ -74,7 +74,7 @@ interactive multi-screen experiences on handheld and large screens
 ## Resources
 
 - [vite-p5-devo](https://github.com/p5videoKit/vite-p5-devo)
-  - using bundler to deliver app via vercel
+  - using bundler to create app for distribution
 
 <!-- ## maze bits evolution
 
