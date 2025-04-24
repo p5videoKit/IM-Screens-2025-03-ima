@@ -5,7 +5,8 @@
 ## Homework Week06
 
 - keep working on your final project
-- update your wiki page weekly with
+- be prepared to present you final project
+- update your wiki page with
 
   - progress | problems| plans | questions
 
